@@ -1,0 +1,12 @@
+@import "variables";
+@import "fonts";
+@import "mixin";
+
+//libs
+@import "fontawesome";
+
+//components
+@import "../app/components/home/home";
+
+//directives
+@import "../app/shared/loader/loader";

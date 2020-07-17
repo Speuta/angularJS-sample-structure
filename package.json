@@ -1,0 +1,32 @@
+{
+  "name": "angularjs-sample-structure",
+  "version": "1.0.0",
+  "description": "Good structure to begin an angularJS project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "build": "grunt compil"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Sébastien Montlibert",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-processhtml": "^0.4.2",
+    "grunt-string-replace": "^1.3.1"
+  },
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-route": "^1.7.8",
+    "angular-translate": "^2.18.1",
+    "jquery": "^3.4.1"
+  }
+}
