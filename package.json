@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Speuta/angularJS-sample-structure.git"
   },
   "author": "Sébastien Montlibert",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Speuta/angularJS-sample-structure/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Speuta/angularJS-sample-structure#readme",
   "devDependencies": {
     "grunt": "^1.0.4",
     "grunt-contrib-clean": "^2.0.0",
