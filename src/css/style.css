@@ -4458,6 +4458,7 @@ readers do not read off random characters that represent icons */
       position: absolute;
       top: 0;
       left: 50%;
+      color: white;
       transform: translateX(-50%);
       text-align: center;
       font-size: 40px;
